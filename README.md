@@ -1,4 +1,4 @@
-# Raydium Pairs Volume Bot
+# Raydium Volume Bot
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 
@@ -60,7 +60,7 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/skeleton1009/raydium-volume-bot.git
+git clone https://github.com/skeleton1009/Raydium-volume-bot.git
 cd raydium-volume-bot
 ```
 2. Install dependencies
