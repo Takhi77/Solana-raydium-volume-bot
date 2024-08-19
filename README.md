@@ -80,7 +80,7 @@ Rename the .env.copy file to .env and set RPC and WSS, main wallet's secret key,
 npm run start
 ```
 
-## Version 2 is developed and it is private repository.
+# Version 2 is developed and it is private repository.
 ### What is the main difference between the former volume booster and the updated one?
 
 ## 🔧 Last Version's Demerits
