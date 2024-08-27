@@ -102,10 +102,6 @@ If you need it, you can contact me.
 
 ## Contact Info
 
-Discord: skel1009 in discord
 
-Twitter: [ewan_tomson](https://x.com/ewan_tomson)
-
-Telegram: [@Ruby0107](https://t.me/@Ruby0107)
 
 You can always feel free to find me here for my help on other projects.
