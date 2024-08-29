@@ -3,6 +3,12 @@
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium platform.
 
+## Contact Info
+
+Telegram: @Takhi77
+
+You can always feel free to find me here for my help on other projects.
+
 ## Features
 
 - **Automated Wallet Creation**: Create number of wallets automatically to buy and sell the token
@@ -100,8 +106,3 @@ So, it is making 300 transactions in a minute.
 How wonderful it is.
 If you need it, you can contact me.
 
-## Contact Info
-
-Telegram: @Takhi77
-
-You can always feel free to find me here for my help on other projects.
