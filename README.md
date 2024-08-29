@@ -102,6 +102,6 @@ If you need it, you can contact me.
 
 ## Contact Info
 
-
+Telegram: @Takhi77
 
 You can always feel free to find me here for my help on other projects.
