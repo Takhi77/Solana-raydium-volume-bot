@@ -32,7 +32,7 @@ export const mainKp = Keypair.fromSecretKey(base58.decode(PRIVATE_KEY))
 const baseMint = new PublicKey(TOKEN_MINT)
 const distritbutionNum = DISTRIBUTE_WALLET_NUM > 20 ? 20 : DISTRIBUTE_WALLET_NUM
 let quoteVault: PublicKey | null = null
-let poolKeys: LiquidityPoolKeysV4
+let poolKeys;
 let sold: number = 0
 let bought: number = 0
 let totalSolPut: number = 0

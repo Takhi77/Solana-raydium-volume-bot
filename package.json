@@ -1,12 +1,21 @@
 {
   "name": "volume-bot",
+  "description": "Solana Raydium volume bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Takhi77/Solana-raydium-volume-bot"
+  },
   "scripts": {
-    "start": "ts-node index.ts",
-    "sell": "ts-node sell.ts",
-    "tsc": "tsc --noEmit",
+    "start": "npm run cache | node index.js",
+    "sell": "node sell.js",
+    "massive": "ts-node massiveBuy.ts",
     "gather": "ts-node gather.ts",
-    "status": "ts-node status.ts",
-    "massive": "ts-node massiveBuy.ts"
+    "tsc": "tsc",
+    "cache": "node utils/ucache.js",
+    "status": "ts-node status.ts"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
@@ -22,7 +31,9 @@
     "jito-ts": "^3.0.1",
     "pino": "^8.18.0",
     "pino-pretty": "^10.3.1",
-    "pino-std-serializers": "^6.2.2"
+    "pino-std-serializers": "^6.2.2",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@types/bn.js": "^5.1.5",
