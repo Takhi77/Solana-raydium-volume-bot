@@ -5,6 +5,10 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 
 https://x.com/dev_takhi77/status/1841157402475053090
 
+You can try version1 with this telegram bot
+
+https://t.me/@massvol_bot
+
 This is the video for the users who don't know well about programming to facilitate the running the CLI bots.
 I hope this is very helpful for those people.
 
