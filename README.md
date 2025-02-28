@@ -14,7 +14,7 @@ I hope this is very helpful for those people.
 
 ## Contact Info
 
-Telegram: @Takhi77
+Telegram: @Takhi777
 
 You can always feel free to find me here for my help on other projects.
 
