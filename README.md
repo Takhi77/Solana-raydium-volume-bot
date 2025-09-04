@@ -3,7 +3,7 @@
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium platform.
 
-https://x.com/dev_takhi77/status/1841157402475053090
+https://x.com/TakhiSol/status/1841157402475053090
 
 You can try version1 with this telegram bot
 
@@ -14,7 +14,7 @@ I hope this is very helpful for those people.
 
 ## Contact Info
 
-Telegram: @Takhi777
+Telegram: @hi_3333
 
 You can always feel free to find me here for my help on other projects.
 
